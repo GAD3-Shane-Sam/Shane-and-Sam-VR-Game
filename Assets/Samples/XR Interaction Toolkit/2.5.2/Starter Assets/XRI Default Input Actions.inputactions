@@ -709,7 +709,7 @@
                 {
                     "name": "",
                     "id": "30dff592-49fe-4440-b137-e303085ed185",
-                    "path": "<OculusTouchController>/gripPressed",
+                    "path": "<XRInputV1::Oculus::OculusTouchControllerOpenXR>/thumbstickclicked",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
